@@ -44,7 +44,7 @@ Spotify EXE path (classic installer)
 
 This project assumes the classic installer. Update the constant in `app.py` if your path differs:
 
-SPOTIFY_EXE = r"C:\Users\anike\AppData\Roaming\Spotify\Spotify.exe"
+SPOTIFY_EXE = r"C:\Users\Your_Username\AppData\Roaming\Spotify\Spotify.exe"
 
 Usage  
 -----
