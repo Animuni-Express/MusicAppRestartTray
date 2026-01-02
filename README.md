@@ -93,8 +93,7 @@ Restart doesn’t relaunch Spotify
 
 License  
 -------
-
-Add a LICENSE file (MIT is common). A license clarifies how others can use/modify/share the code.[12][13]
+GNU Public Liscence is used.
 
 [1](https://realpython.com/readme-python-project/)
 [2](https://pythonhosted.org/pystray/)
